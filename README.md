@@ -15,7 +15,7 @@ The objective of this project is to perform an in-depth analysis of customer sat
   - [Recommendations](#2-recommendations)
   - [Conclusion](#3-conclusion)
 - [Technologies Used](#technologies-used)
-- [Acknowledgements & Dataset Source](#Acknowledgements-&-Dataset-Source)
+- [Acknowledgements & Dataset Source](#acknowledgements--dataset-source)
 
 ## Dataset Description
 This dataset contains e-commerce order information from Olist, the largest department store on Brazilian marketplaces. It includes data on 100,000 orders made between 2016 and 2018 across various marketplaces in Brazil. The dataset features allow for analyzing an order from multiple dimensions, including order status, price, payment and freight performance, customer location, geolocation information, product attributes, and customer reviews.
