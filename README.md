@@ -88,5 +88,5 @@ This analysis highlights the significant role that shipping time plays in custom
 - **Kaggle** for dataset access
 
 ## Acknowledgements & Dataset Source
-- [Olist](https://www.olist.com) for providing the dataset through Kaggle.
-- [Link to dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data)
+- [Olist](https://olist.com/) for providing the dataset through Kaggle.
+  - [Link to dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data)
